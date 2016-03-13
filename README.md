@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello!
+
+Scott Here, I love Maps and GIS and Automation!
